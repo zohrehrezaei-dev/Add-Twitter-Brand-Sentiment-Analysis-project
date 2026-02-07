@@ -3,6 +3,11 @@
 ## 📊 Project Overview
 Comprehensive social media analytics project demonstrating brand health monitoring, sentiment analysis, and competitive benchmarking capabilities using Twitter data.
 
+<p align="center">
+  <img src="twitter_sentiment_dashboard.png" width="800">
+</p>
+
+
 ## 🎯 Key Deliverables
 - **Brand Health Dashboard**: Interactive visualization of key brand metrics (sentiment, engagement, reach)
 - **Sentiment Analysis Pipeline**: Automated classification using machine learning (91%+ accuracy)
